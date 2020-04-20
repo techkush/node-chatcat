@@ -1,0 +1,25 @@
+{
+  "name": "chatcat",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techkush/node-chatcat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techkush/node-chatcat/issues"
+  },
+  "homepage": "https://github.com/techkush/node-chatcat#readme",
+  "engines": {
+    "node": "4.2.2"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
